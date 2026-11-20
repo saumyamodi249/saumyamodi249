@@ -3,6 +3,31 @@
   Hi there, I'm Saumya
   <img src="https://media.tenor.com/Images/kyubey-running.gif" width="55" alt="Kyubey" />
 </h1>
+<div align="center">
+  <h3>🐾 Choose Your Favorite Pet / Sprite:</h3>
+
+  <!-- 1. Running Pikachu -->
+  <p>1. Running Pikachu: <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/ Pikachu.gif" width="50" /> 
+  <img src="https://media.giphy.com/media/13G7hmmFr9yuxG/giphy.gif" width="55" /></p>
+
+  <!-- 2. Nyan Cat -->
+  <p>2. Nyan Cat: <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="75" /></p>
+
+  <!-- 3. Dancing Party Parrot -->
+  <p>3. Party Parrot: <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="40" /></p>
+
+  <!-- 4. Walking Kirby -->
+  <p>4. Walking Kirby: <img src="https://media.giphy.com/media/5ev3alRsskWA0/giphy.gif" width="55" /></p>
+
+  <!-- 5. Running Cat -->
+  <p>5. Pixel Cat: <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="55" /></p>
+
+  <!-- 6. Running Mario -->
+  <p>6. Running Mario: <img src="https://media.giphy.com/media/atQF1zaSGq8s8/giphy.gif" width="50" /></p>
+
+  <!-- 7. Running Dinosaur (Chrome Dino) -->
+  <p>7. Chrome Dino: <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="60" /></p>
+</div>
 
 <!-- Social Links centered under the header -->
 <p align="center">
