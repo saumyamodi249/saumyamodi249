@@ -14,7 +14,7 @@
 <hr>
 
 <!-- Personal details and animated pixel coder GIF on the right -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320px" align="right" alt="Coding Animation" />
+<img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" width="300px" align="right" alt="Coding Animation" />
 
 - 💛 In love with **JavaScript & TypeScript**
 - 🎨 Love writing **Tailwind CSS & clean UI animations**
