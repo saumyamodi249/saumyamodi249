@@ -19,7 +19,7 @@
 - 💛 In love with **JavaScript & TypeScript**
 - 🎨 Love writing **Tailwind CSS & clean UI animations**
 - 🌱 Frontend & Full-Stack Web Developer
-- 💬 Ask me about **React, TypeScript, JavaScript, Tailwind CSS, Ant Design, APIs, Git**
+- 💬 Ask me about **React, TypeScript, JavaScript, Tailwind CSS, Ant Design, APIs**
 - ⚡ Fun fact: **I build fast and obsess over dark-mode UIs**
 - 👁️ Looking for **open source contribution**
 
