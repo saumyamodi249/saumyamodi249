@@ -13,7 +13,7 @@
 💛 In love with <strong>JavaScript & TypeScript</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 🎨 Love writing <strong>Tailwind CSS & clean UI animations</strong> <br />
 🌱 Frontend & Full-Stack Web Developer <br />
-💬 Ask me about <strong>React, TypeScript, JavaScript, Tailwind CSS, Ant Design, APIs, Git</strong> <br />
+💬 Ask me about <strong>React, TypeScript, JavaScript, TailwindCSS, Ant Design, APIs</strong> <br />
 ⚡ Fun fact: <strong>I build fast and obsess over dark-mode UIs</strong> <br />
 👁️ Looking for <strong>open source contribution</strong>
 <details open>
