@@ -1,5 +1,8 @@
-<!-- Main Heading centered -->
-<h1 align="center"> Hi there, I'm Saumya 👋 </h1>
+<!-- Main Heading centered with running Kyubey sprite -->
+<h1 align="center">
+  Hi there, I'm Saumya
+  <img src="https://media.tenor.com/Images/kyubey-running.gif" width="55" alt="Kyubey" />
+</h1>
 
 <!-- Social Links centered under the header -->
 <p align="center">
