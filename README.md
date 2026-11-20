@@ -3,19 +3,28 @@
 
 <!-- Social Links centered under the header -->
 <p align="center">
-  <a href="https://github.com/saumyamodi249">GitHub</a>
+  <a href="https://github.com/saumyamodi249">GitHub</a> -
+  <a href="https://x.com/Saumya249">Twitter</a> -
+  <a href="mailto:saumyamodi249@gmail.com">Gmail</a> -
+  <a href="https://www.instagram.com/saumya__24__/">Instagram</a> -
+  <a href="https://www.facebook.com/saumya.modi.5648">Facebook</a>
 </p>
 
 <!-- Horizontal line for separation -->
 <hr>
 
-<!-- Personal details and image section -->
-💛 In love with <strong>JavaScript & TypeScript</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
-🎨 Love writing <strong>Tailwind CSS & clean UI animations</strong> <br />
-🌱 Frontend & Full-Stack Web Developer <br />
-💬 Ask me about <strong>React, TypeScript, JavaScript, TailwindCSS, Ant Design, APIs</strong> <br />
-⚡ Fun fact: <strong>I build fast and obsess over dark-mode UIs</strong> <br />
-👁️ Looking for <strong>open source contribution</strong>
+<!-- Personal details and animated pixel coder GIF on the right -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320px" align="right" alt="Coding Animation" />
+
+- 💛 In love with **JavaScript & TypeScript**
+- 🎨 Love writing **Tailwind CSS & clean UI animations**
+- 🌱 Frontend & Full-Stack Web Developer
+- 💬 Ask me about **React, TypeScript, JavaScript, Tailwind CSS, Ant Design, APIs, Git**
+- ⚡ Fun fact: **I build fast and obsess over dark-mode UIs**
+- 👁️ Looking for **open source contribution**
+
+<br/>
+
 <details open>
   <summary><b>🛠Tech Stack</b></summary><br>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
@@ -46,7 +55,6 @@
   </div>
 </details>
 
-<!-- Break for spacing -->
 <br>
 
 <!-- GitHub Stats Section with alignment centered -->
@@ -69,3 +77,43 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saumyamodi249/saumyamodi249/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br>
+
+<!-- Let's Connect Section -->
+## 🤝 Let's Connect!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saumyamodi249">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/Saumya249">
+        <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /><br>
+        <sub><b>Twitter</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:saumyamodi249@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /><br>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/saumya__24__/">
+        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /><br>
+        <sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/saumya.modi.5648">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" height="48" alt="Facebook" /><br>
+        <sub><b>Facebook</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
