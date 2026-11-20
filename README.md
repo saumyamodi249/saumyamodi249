@@ -14,7 +14,7 @@
 <hr>
 
 <!-- Personal details and animated pixel coder GIF on the right -->
-<img src="https://raw.githubusercontent.com/saumyamodi249/saumyamodi249/main/developer_animation.gif" width="350px" align="right" alt="Multitasking Developer Coding on PC and Laptop" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320px" align="right" alt="Coding Animation" />
 
 - 💛 In love with **JavaScript & TypeScript**
 - 🎨 Love writing **Tailwind CSS & clean UI animations**
@@ -67,4 +67,53 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumyamodi249&theme=radical&utcOffset=5.5">
 
   <!-- Additional GitHub Readme Stats -->
-  <img
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=saumyamodi249&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="saumyamodi249" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyamodi249&theme=radical" alt="saumyamodi249" />
+
+  <!-- Contribution Grid Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumyamodi249/saumyamodi249/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumyamodi249/saumyamodi249/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saumyamodi249/saumyamodi249/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+<!-- Let's Connect Section -->
+## 🤝 Let's Connect!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saumyamodi249">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/Saumya249">
+        <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /><br>
+        <sub><b>Twitter</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:saumyamodi249@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /><br>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/saumya__24__/">
+        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /><br>
+        <sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/saumya.modi.5648">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" height="48" alt="Facebook" /><br>
+        <sub><b>Facebook</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
